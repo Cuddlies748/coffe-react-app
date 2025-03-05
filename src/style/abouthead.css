@@ -1,0 +1,36 @@
+.about_head_bac{
+    width: 1280px;
+height: 450px;
+margin-top: 43px;
+margin-left: 80px;
+}
+.about_head_textpak{
+    width: 486px;
+   
+    height: 182px;
+    position: absolute;
+    top: 247px;
+    left: 165px;
+}
+.about_head_textpak h2{
+    color: #FEFCF7;
+    font-family: "Fraunces", serif;
+    margin-top: 10px;
+
+font-size: 72px;
+font-weight: 900;
+line-height: 72px;
+text-align: left;
+
+}
+.about_head_textpak p{
+    color: rgba(254, 252, 247, 1);
+    opacity: 80%;
+    font-family: "Barlow", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    margin-top: -37px;
+
+}

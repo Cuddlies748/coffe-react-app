@@ -1,0 +1,94 @@
+.container{
+    width: 100%;
+    height: 100%;
+  
+}
+
+.coffe_head_img{
+    width: 1280px;
+    height: 600px;
+    top: 50px;
+    left: 81px;
+   position: relative;
+    
+    background-image: url('/src/images/bacground_1.png');
+    background-size: cover; /* Или contain, в зависимости от того, как вы хотите отображать изображение */
+    background-position: center;
+}
+.coffe_head_text{
+    width: 493px;
+height: 367px;
+top: 117px;
+left: 84px;
+position: absolute;
+
+
+}
+.coffe_head_text h2{
+    font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 
+  900;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
+    color: white;
+    width: 493px;
+    height: 145px;
+    font-size: 72px;
+    margin-top: 0;
+    cursor: pointer;
+}
+.coffe_head_text p{
+    width: 445px;
+    height: 78px;
+    font-family: "Barlow", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: rgba(131, 136, 143, 1);
+margin-top: 0;
+font-size: 17px;
+cursor: pointer;
+}
+.coffe_head_text button{
+    width: 217px;
+    height: 56px;
+    background: rgba(14, 135, 132, 1);
+    border-radius: 10px;
+    border: none;
+
+
+
+
+    color: rgba(254, 252, 247, 1);
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 
+    500;
+    font-style: normal;
+    font-variation-settings:
+      "SOFT" 0,
+      "WONK" 0;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+cursor: pointer;
+
+
+
+
+
+}
+.coffe_head_text button:hover{
+    background: rgba(102, 210, 207, 1);
+
+
+
+
+
+
+
+}

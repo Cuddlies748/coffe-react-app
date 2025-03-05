@@ -1,0 +1,63 @@
+.Sity_wrapper{
+margin-top: 152px;
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 95px;
+position: absolute;
+top: 2124px;
+}
+.Sity_wrapper h2{
+    font-family: "Fraunces", serif ;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 36px;
+    text-align: left;
+    color: rgba(51, 61, 75, 1);
+    
+}
+.sity{
+    width: 1045px;
+    height: 366px;
+    
+   
+    
+    
+    margin-top: 168px;
+    margin-left: 159px;
+   
+}
+.sity_our_h2{
+    
+    font-family: "Fraunces", serif ;
+font-size: 24px;
+font-weight: 900;
+line-height: 32px;
+text-align: left;
+color: rgba(131, 136, 143, 1);
+
+}
+.sity_home_card{
+    /* width: 285px; */
+    height: 213px;
+   
+
+
+}
+.sity_p{
+    font-family: "Barlow", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+color: rgba(51, 61, 75, 1);
+opacity: 80%;
+margin-top: -18px;
+}
+
+.sity_card_p_wrapp{
+    /* display: grid;
+    grid-template-columns: repeat(1,4fr); */
+  
+    height: 
+    107px;
+}

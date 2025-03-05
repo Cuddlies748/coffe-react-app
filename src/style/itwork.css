@@ -1,0 +1,149 @@
+.it_work{
+    width: 1045px;
+height: 565px;
+margin-top: 200px;
+margin-left: 165px;
+
+}
+.itwork_card{
+    width: 285px;
+height: 355px;
+
+
+}
+.itwork_card h4{
+    font-family: "Fraunces", serif;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+    text-align: left;
+    color: rgba(253, 214, 186, 1);
+    position: absolute;
+    top: 2604px;
+
+}
+.itwork_card h2{
+    font-family: "Fraunces", serif;
+font-size: 32px;
+font-weight: 900;
+line-height: 36px;
+text-align: left;
+
+color: rgba(51, 61, 75, 1);
+
+    width: 255px;
+margin-top: 246px;
+}
+.itwork_card p{
+    font-family: "Barlow", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: rgba(51, 61, 75, 1);
+    margin-top: 45px;
+
+
+    
+
+}
+.itwork_wrapper{
+    width: 1045px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 95px;
+}
+.how_to_it_work{
+    font-family: "Fraunces", serif;
+font-size: 24px;
+font-weight: 900;
+line-height: 32px;
+text-align: left;
+color: rgba(131, 136, 143, 1);
+
+}
+.oval{
+    width: 31px;
+height: 31px;
+top: 2614px;
+left: 165px;
+
+border: 2px 0px 0px 0px;
+border-radius: 50%;
+position: absolute;
+border: 2px solid rgba(14, 135, 132, 1);
+z-index: 1;
+background-color: white;
+}
+.oval1{
+    width: 31px;
+height: 31px;
+top: 2614px;
+left: 545px;
+z-index: 1;
+border: 2px 0px 0px 0px;
+border-radius: 50%;
+position: absolute;
+border: 2px solid rgba(14, 135, 132, 1);
+background-color: white;
+}
+.oval2{
+    width: 31px;
+height: 31px;
+top: 2614px;
+left: 925px;
+background:none;
+border: 2px 0px 0px 0px;
+border-radius: 50%;
+position: absolute;
+border: 2px solid rgba(14, 135, 132, 1);
+z-index: 1;
+background-color: white;
+}
+.line{
+    width: 760px;
+height: 1px;
+top: 2629px;
+left: 180px;
+gap: 0px;
+position: absolute;
+border: 2px solid rgba(253, 214, 186, 1)
+
+}
+.it_work button{
+    width: 217px;
+    height: 56px;
+    background: rgba(14, 135, 132, 1);
+    border-radius: 10px;
+    border: none;
+
+
+
+
+    color: rgba(254, 252, 247, 1);
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 
+    500;
+    font-style: normal;
+    font-variation-settings:
+      "SOFT" 0,
+      "WONK" 0;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+cursor: pointer;
+position: absolute;
+top: 3131px ;
+left: 165px;
+}
+.it_work button:hover{
+    background: rgba(102, 210, 207, 1);
+
+
+
+
+
+
+
+}

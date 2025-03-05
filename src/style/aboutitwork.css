@@ -1,0 +1,106 @@
+.aboutitwork{
+    width: 1280px;
+height: 653px;
+
+margin-top: 177px;
+margin-left: 80px;
+border-radius: 10px;
+background-color: #2C343E;
+}
+.AboutItworkWrapper{
+    width: 1045px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 95px;
+    margin-left: 85px;
+}
+.itwork_card{
+    width: 285px;
+height: 355px;
+
+
+}
+.about_itwork_card h4{
+    font-family: "Fraunces", serif;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 72px;
+    text-align: left;
+    color: #FDD6BA;
+    position: absolute;
+    top: 845px;
+
+}
+.about_itwork_card h2{
+    font-family: "Fraunces", serif;
+font-size: 32px;
+font-weight: 900;
+line-height: 36px;
+text-align: left;
+
+color: #FEFCF7;
+
+    width: 255px;
+margin-top: 299px;
+}
+.about_itwork_card p{
+    font-family: "Barlow", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #FEFCF7;
+    margin-top: 45px;
+
+
+    
+
+}
+.oval_about{
+    width: 31px;
+height: 31px;
+top: 831px;
+left: 165px;
+
+border: 2px 0px 0px 0px;
+border-radius: 50%;
+position: absolute;
+border: 2px solid #0E8784;
+z-index: 1;
+
+}
+.oval1_about{
+    width: 31px;
+height: 31px;
+top: 831px;
+left: 545px;
+z-index: 1;
+border: 2px 0px 0px 0px;
+border-radius: 50%;
+position: absolute;
+border: 2px solid #0E8784;
+
+}
+.oval2_about{
+    width: 31px;
+height: 31px;
+top: 831px;
+left: 925px;
+background:none;
+border: 2px 0px 0px 0px;
+border-radius: 50%;
+position: absolute;
+border: 2px solid #0E8784;
+z-index: 1;
+
+}
+.line_about{
+    width: 760px;
+height: 1px;
+top: 846px;
+left: 180px;
+gap: 0px;
+position: absolute;
+border: 2px solid #FDD6BA;
+
+}

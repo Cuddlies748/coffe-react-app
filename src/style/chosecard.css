@@ -1,0 +1,130 @@
+.chose_cadr{
+    width: 350px;
+height: 382px;
+background-color: rgba(14, 135, 132, 1);
+border-radius: 5px;
+transition:.2s all; 
+    cursor: pointer;
+}
+.chose_wrapper{
+width: 
+1110px;
+gap: 30px;
+display: grid;
+grid-template-columns: repeat(3,1fr);
+margin: -200px auto;
+}
+.chose{
+    margin-left: 80px;
+    width: 1280px;
+    margin-top: 200px;
+height: 728px;
+
+
+
+    
+    
+  
+
+}
+.whu_choose_us{
+    width: 1280px;
+height: 577px;
+
+background: rgba(44, 52, 62, 1);
+
+}
+.whu_choose_us h2{
+    font-family: "Fraunces", serif;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 48px;
+    text-align: center;
+    color: rgba(254, 252, 247, 1);
+    position: absolute;
+    top: 1674px;
+    left: 555.5px;
+    
+
+}
+.whu_choose_us p{
+    font-family: "Barlow", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+width: 540px;
+    position: absolute;
+    top: 1754px;
+    left: 450px;
+    color: rgba(254, 252, 247, 1);
+    opacity: 80%;
+
+}
+.chose_card_h2{
+    color: rgba(254, 252, 247, 1);
+    width: 255px;
+    font-family: "Fraunces", serif;
+font-size: 24px;
+font-weight: 900;
+line-height: 32px;
+text-align: center;
+margin-top: 54px;
+margin-left: 47px;
+}
+.chose_card_p{
+    color: rgba(254, 252, 247, 1);
+    width: 255px;
+    font-family: "Barlow", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin-left: 47px;
+
+}
+.chose_card_img{
+    margin-top: 83px;
+    margin-left: 139px;
+    
+
+}
+.track_card{
+    width: 350px;
+    height: 382px;
+    background-color: rgba(14, 135, 132, 1);
+    border-radius: 5px;
+   
+    cursor: pointer;
+
+
+
+
+   
+}
+
+.track_card img{
+    margin-top: 100px;
+    margin-left: 136px;
+}
+.track_card h2{
+    color: rgba(254, 252, 247, 1);
+    width: 255px;
+    font-family: "Fraunces", serif;
+font-size: 24px;
+font-weight: 900;
+line-height: 32px;
+text-align: center;
+margin-top: 56px;
+margin-left: 47px;
+}
+.track_card p{
+    color: rgba(254, 252, 247, 1);
+    width: 255px;
+    font-family: "Barlow", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin-left: 47px;
+}

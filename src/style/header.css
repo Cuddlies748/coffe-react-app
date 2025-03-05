@@ -1,0 +1,113 @@
+.ancor{
+    font-size: 20px;
+    width: 100%;
+  
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    height: 50px;
+ 
+   
+
+  
+ 
+}
+
+.a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+    position: absolute;
+    top: 44px;
+    left: 113px;
+   
+text-align: center; 
+background: none;
+
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+
+
+}
+.a1{
+   color: rgba(131, 136, 143, 1);
+
+    text-decoration: none;
+
+   
+ 
+      
+text-align: center; 
+background: none;
+
+
+
+}
+.a2{
+    color: rgba(131, 136, 143, 1);
+
+    text-decoration: none;
+
+width: 62px;
+ 
+text-align: center; 
+background: none;
+
+
+
+}
+.a3{
+    color: rgba(131, 136, 143, 1);
+
+    text-decoration: none;
+  
+
+ 
+ width: 121px;
+text-align: center; 
+background: none;
+
+
+
+}
+.a1:hover{
+    color: black;
+}
+.a2:hover{
+    color: black;
+}
+.a3:hover{
+    color: black;
+}
+.ancor_group{
+    width: 283px;
+
+   
+
+    height: 15px;
+    font-family: "Barlow", sans-serif;
+    font-weight:
+    700;
+    font-style: normal;
+    
+top: 50px;
+left: 1077px;
+font-size: 12px;
+gap: 33px;
+display: grid;
+grid-template-columns: repeat(3,1fr);
+position: absolute;
+
+}
+
+.img_logo{
+    position: absolute;
+    top: 45px;
+    left: 81px;
+}
+
+
+
+

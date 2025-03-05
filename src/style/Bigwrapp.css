@@ -1,0 +1,26 @@
+.toggle-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .wrapper {
+    position: fixed;
+    top: 50px; /* Начальная позиция снизу кнопки */
+    left: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Вертикальное выравнивание */
+    flex-direction: column;
+    z-index: 1000;
+    padding-top: 10px; /* Отступ сверху */
+  }
+  
+  .box {
+    background: lightgray;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+  }
