@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coffe-react-app/static/css/main.a4871a17.css",
+    "main.js": "/coffe-react-app/static/js/main.00a4af57.js",
+    "static/media/bacground_2.png": "/coffe-react-app/static/media/bacground_2.c0db3da88a978cb00565.png",
+    "static/media/bacground_1.png": "/coffe-react-app/static/media/bacground_1.62ef36a305f3d5e4448c.png",
+    "static/media/About_us.png": "/coffe-react-app/static/media/About_us.574b00a13fc9911f65e5.png",
+    "static/media/Our_image.png": "/coffe-react-app/static/media/Our_image.60a96b52ce52bc5cdfd0.png",
+    "static/media/quali_img.png": "/coffe-react-app/static/media/quali_img.86b38d905521ddb48424.png",
+    "static/media/paket_bac.png": "/coffe-react-app/static/media/paket_bac.e577ec761a6bdd0ae8a1.png",
+    "static/media/paket3.png": "/coffe-react-app/static/media/paket3.0d1302ce7030465de35a.png",
+    "static/media/paket1.png": "/coffe-react-app/static/media/paket1.cf1f4e03f68870639245.png",
+    "static/media/paket2.png": "/coffe-react-app/static/media/paket2.c73b621d4d99b49d57c1.png",
+    "static/media/paket.png": "/coffe-react-app/static/media/paket.6da4d5e2d0e4ab43aacf.png",
+    "index.html": "/coffe-react-app/index.html",
+    "main.a4871a17.css.map": "/coffe-react-app/static/css/main.a4871a17.css.map",
+    "main.00a4af57.js.map": "/coffe-react-app/static/js/main.00a4af57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4871a17.css",
+    "static/js/main.00a4af57.js"
+  ]
+}
