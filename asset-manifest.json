@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coffe-react-app/static/css/main.a4871a17.css",
-    "main.js": "/coffe-react-app/static/js/main.c4964c07.js",
+    "main.js": "/coffe-react-app/static/js/main.f545e0f7.js",
     "static/media/bacground_2.png": "/coffe-react-app/static/media/bacground_2.c0db3da88a978cb00565.png",
     "static/media/bacground_1.png": "/coffe-react-app/static/media/bacground_1.62ef36a305f3d5e4448c.png",
     "static/media/About_us.png": "/coffe-react-app/static/media/About_us.574b00a13fc9911f65e5.png",
@@ -14,10 +14,10 @@
     "static/media/paket.png": "/coffe-react-app/static/media/paket.6da4d5e2d0e4ab43aacf.png",
     "index.html": "/coffe-react-app/index.html",
     "main.a4871a17.css.map": "/coffe-react-app/static/css/main.a4871a17.css.map",
-    "main.c4964c07.js.map": "/coffe-react-app/static/js/main.c4964c07.js.map"
+    "main.f545e0f7.js.map": "/coffe-react-app/static/js/main.f545e0f7.js.map"
   },
   "entrypoints": [
     "static/css/main.a4871a17.css",
-    "static/js/main.c4964c07.js"
+    "static/js/main.f545e0f7.js"
   ]
 }
